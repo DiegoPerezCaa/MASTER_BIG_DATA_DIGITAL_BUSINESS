@@ -1,0 +1,10 @@
+MEDIFIS
+Este conjunto de datos contiene 28 observaciones de 8 variables. 
+Las observaciones cooresponde a estudiantes españoles y las variables
+a sus características físicas. Las variables son: género (0 mujer, 1 hombre),
+estatura (en cm), peso (en Kgr), longitud de pie (en cm.), longitud de brazo (en cm.), 
+anchura de la espalda (en cm.), diámetro del cráneo (en cm.), 
+longitud entre la rodilla y el tobillo (en cm.).
+Fuente:Elaboración propia 
+Primera fila de datos
+ 0    159.00    49.00     36.00    68.00     42.00     57.00    40.00

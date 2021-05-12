@@ -1,0 +1,46 @@
+id,presidente,nombre,partido,tiempo
+1,1,George Washington,"None, Federalist",1789-1797
+2,2,John Adams,Federalist,1797-1801
+3,3,Thomas Jefferson,Democratic-Republican,1801-1809
+4,4,James Madison,Democratic-Republican,1809-1817
+5,5,James Monroe,Democratic-Republican,1817-1825
+6,6,John Quincy Adams,Democratic-Republican,1825-1829
+7,7,Andrew Jackson,Democrat,1829-1837
+8,8,Martin van Buren,Democrat,1837-1841
+9,9,William H. Harrison,Whig,1841
+10,10,John Tyler,Whig,1841-1845
+11,11,James K. Polk,Democrat,1845-1849
+12,12,Zachary Taylor,Whig,1849-1850
+13,13,Millard Fillmore,Whig,1850-1853
+14,14,Franklin Pierce,Democrat,1853-1857
+15,15,James Buchanan,Democrat,1857-1861
+16,16,Abraham Lincoln,Republican,1861-1865
+17,17,Andrew Johnson,National Union,1865-1869
+18,18,Ulysses S. Grant,Republican,1869-1877
+19,19,Rutherford Hayes,Republican,1877-1881
+20,20,James Garfield,Republican,1881
+21,21,Chester Arthur,Republican,1881-1885
+22,22,Grover Cleveland,Democrat,1885-1889
+23,23,Benjamin Harrison,Republican,1889-1893
+24,24,Grover Cleveland,Democrat,1893-1897
+25,25,William McKinley,Republican,1897-1901
+26,26,Theodore Roosevelt,Republican,1901-1909
+27,27,William Taft,Republican,1909-1913
+28,28,Woodrow Wilson,Democrat,1913-1921
+29,29,Warren Harding,Republican,1921-1923
+30,30,Calvin Coolidge,Republican,1923-1929
+31,31,Herbert C. Hoover,Republican,1929-1933
+32,32,Franklin Delano Roosevelt,Democrat,1933-1945
+33,33,Harry S Truman,Democrat,1945-1953
+34,34,Dwight David Eisenhower,Republican,1953-1961
+35,35,John Fitzgerald Kennedy,Democrat,1961-1963
+36,36,Lyndon Baines Johnson,Democrat,1963-1969
+37,37,Richard Milhous Nixon,Republican,1969-1974
+38,38,Gerald R. Ford,Republican,1974-1977
+39,39,Jimmy Carter,Democrat,1977-1981
+40,40,Ronald Wilson Reagan,Republican,1981-1989
+41,41,George H. W. Bush,Republican,1989-1993
+42,42,Bill Clinton,Democrat,1993-2001
+43,43,George W. Bush,Republican,2001-2009
+44,44,Barack Obama,Democrat,2009-2017
+45,45,Donald Trump,Republican,2017-
